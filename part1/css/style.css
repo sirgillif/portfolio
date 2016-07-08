@@ -1,3 +1,6 @@
+body{
+	background-image: url("../img/background.png");
+}
 #words{
 	font-size:16px;
 	line-height: 2;
