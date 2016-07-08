@@ -74,4 +74,11 @@ section {
 
 @media only screen and (max-width: 640px) {
 	/* Add your code here */
+	.content-wrapper {
+	background-color: green;
+	}
+	.about-me img {
+	float: none;
+	width:100%;
+	}
 }
